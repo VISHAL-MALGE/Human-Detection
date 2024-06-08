@@ -1,0 +1,1 @@
+Developed a real-time human detection system using YOLO (You Only Look Once) object detection model and OpenCV. The system captures video from a webcam, detects humans in the video stream, and plays a beep sound when a human is detected.
